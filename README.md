@@ -28,4 +28,7 @@ This tool can be use for OSINT.
 `$ bash all-in-meta-extract-linux.sh`
 #
 # PREVIEW
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ALL-IN-META-EXTRACT/blob/master/termux.gif)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ALL-IN-META-EXTRACT/blob/master/linux.gif)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ALL-IN-META-EXTRACT/blob/master/install.png)
 
