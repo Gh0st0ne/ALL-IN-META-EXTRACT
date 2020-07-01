@@ -2,6 +2,12 @@
 Simple tool to that use EXIFTOOL to extract metadata on images ad files.
 This tool can be use for OSINT.
 #
+# FEATURES
+
+- [x] Image metadata extractor
+- [x] File metadata extractor
+
+#
 # TERMUX & LINUX INSTALLATION
 #
 
