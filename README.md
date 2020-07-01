@@ -9,7 +9,6 @@ This tool can be use for OSINT.
 
 #
 # TERMUX & LINUX INSTALLATION
-#
 
 `$ git clone https://github.com/mkdirlove/ALL-IN-META-EXTRACT.git`
 
