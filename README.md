@@ -12,13 +12,14 @@ This tool can be use for OSINT.
 `$ chmod +x *`
 
 `$ bash install.sh`
-
+#
 # TERMUX USER
 
 `$ bash all-in-meta-extract-termux.sh`
-
+#
 # LINUX USERS
 
 `$ bash all-in-meta-extract-linux.sh`
-
 #
+# PREVIEW
+
