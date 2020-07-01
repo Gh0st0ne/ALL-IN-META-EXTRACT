@@ -6,6 +6,8 @@ This tool can be use for OSINT.
 
 - [x] Image metadata extractor
 - [x] File metadata extractor
+#
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ALL-IN-META-EXTRACT/blob/master/sample.gif)
 
 #
 # TERMUX & LINUX INSTALLATION
